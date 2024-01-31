@@ -1,0 +1,317 @@
+<?xml version='1.0'?>
+<home version='7200' exportFlags='17' name='rumah-kakak-2.sh3d' camera='topCamera' wallHeight='243.84'>
+  <property name='AdvancedVideoPanel.VideoDialogX' value='915'/>
+  <property name='AdvancedVideoPanel.VideoDialogY' value='420'/>
+  <environment groundColor='00A8A8A8' skyColor='00CCE4FC' lightColor='00D0D0D0'>
+    <camera attribute='cameraPath' id='camera-94c13b13-c5af-4543-a3fc-1f644a3a4448' lens='PINHOLE' x='2374.2935' y='2054.409' z='200.0' yaw='-35.408188' pitch='0.0' fieldOfView='1.0995575' time='1705924800000' renderer='com.eteks.sweethome3d.j3d.PhotoRenderer'/>
+    <camera attribute='cameraPath' id='camera-7e69107a-4697-443e-aee8-25e05078472f' lens='PINHOLE' x='785.8342' y='2769.792' z='200.0' yaw='-34.553158' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-2d0cef3b-956b-41d0-bb87-fa2f73751992' lens='PINHOLE' x='-666.5405' y='2178.1208' z='200.0' yaw='-33.78817' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-90b96332-a224-4f62-9eb0-44c77a06ee1d' lens='PINHOLE' x='-1254.6096' y='1130.3615' z='200.0' yaw='-33.208176' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-593cbe3d-6a7a-4ada-a5a6-d60b0dc2fec5' lens='PINHOLE' x='-1253.6025' y='203.11038' z='210.50452' yaw='-32.763153' pitch='0.005' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-e4ff3476-4e0e-408e-a9fb-74251bcbb5d8' lens='PINHOLE' x='-446.54028' y='-1025.919' z='200.0' yaw='-32.048164' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-dcd648f5-bcc0-4997-bf10-6319d0b99ae1' lens='PINHOLE' x='590.9865' y='-1422.0817' z='200.0' yaw='-31.513186' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-7b1010ac-0047-4ac0-baf5-148db2a4e75f' lens='PINHOLE' x='2482.5366' y='-582.5145' z='200.0' yaw='-30.48321' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-69edd4a2-7fd4-49a5-8276-0cae7a493841' lens='PINHOLE' x='2895.9055' y='672.9317' z='200.0' yaw='-29.843212' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-966a3180-57a8-4510-bbb2-365dfeb3f54b' lens='PINHOLE' x='2097.7876' y='2317.1055' z='200.0' yaw='-28.943213' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-c2e98416-6a1a-4123-8866-00b0006e0394' lens='PINHOLE' x='1415.5361' y='1864.09' z='1812.5414' yaw='-28.753222' pitch='0.8749998' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-8a9b72d0-8579-454b-baf4-cedb09a67515' lens='PINHOLE' x='276.43793' y='2021.4803' z='1721.6636' yaw='-27.908232' pitch='0.8099999' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-f332d5e2-5973-4cd5-a65d-69ac270b8da6' lens='PINHOLE' x='-456.1311' y='902.6438' z='1871.4888' yaw='-26.888233' pitch='0.9199998' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-a7cfabf1-7c1d-4f20-a7b2-d991c54e5118' lens='PINHOLE' x='-328.62756' y='-337.24805' z='1662.5188' yaw='-25.973242' pitch='0.7699999' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-c1f92c25-63d8-4f00-9f21-4cf6b3e11922' lens='PINHOLE' x='312.409' y='-835.0458' z='1585.3092' yaw='-25.443243' pitch='0.71999997' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-19ec569c-15a7-4c56-a1c3-48502652472b' lens='PINHOLE' x='1825.8457' y='-761.40015' z='1342.5492' yaw='-24.508244' pitch='0.5750001' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-4b24c8e0-8a46-4ae2-83a2-c8d58365f1b8' lens='PINHOLE' x='2223.5496' y='1196.3572' z='1647.3638' yaw='-23.208248' pitch='0.76000005' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-59357b85-010f-4e89-820d-c48bd9879bce' lens='PINHOLE' x='1754.8867' y='1965.9603' z='1545.394' yaw='-22.628252' pitch='0.6950001' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-4c9f06f1-e758-4634-9853-f7272b304ea9' lens='PINHOLE' x='1423.6396' y='1518.3601' z='1081.1138' yaw='-22.628252' pitch='0.6950001' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-d1fe9177-a2a9-43fc-a5d6-f71f648062d2' lens='PINHOLE' x='1088.4852' y='737.2187' z='1542.509' yaw='-23.333242' pitch='1.3499995' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-cec2a5f2-633f-45cb-b3fa-d1d59dae05ae' lens='PINHOLE' x='794.9971' y='668.90204' z='1575.9117' yaw='-24.648243' pitch='1.5707964' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-ef00584e-bd85-4da2-998d-3252e135b974' lens='PINHOLE' x='794.9971' y='668.9021' z='2838.4116' yaw='-25.118221' pitch='1.5707964' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-925ed143-d71b-437d-a8f8-1d27c36dcfef' lens='PINHOLE' x='184.22986' y='1569.1392' z='2603.6956' yaw='-27.678217' pitch='1.1457967' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-62c58b83-a494-4853-9cf2-127584496dde' lens='PINHOLE' x='273.9323' y='1436.9227' z='2250.6685' yaw='-27.678217' pitch='1.1457967' fieldOfView='1.0995575' time='1705924800000'/>
+    <camera attribute='cameraPath' id='camera-432ed54c-9744-46da-a8d0-8f66697b919c' lens='PINHOLE' x='-198.23157' y='2643.2085' z='626.8662' yaw='-27.808228' pitch='0.19079697' fieldOfView='1.0995575' time='1705924800000'/>
+    <texture attribute='groundTexture' name='Grass' creator='eTeks' catalogId='eTeks#grass' width='30.0' height='30.0' image='0'/>
+  </environment>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='526.9229' y='62.434795' z='170.0' yaw='-4.206176' pitch='1.2457963' fieldOfView='1.0995575' time='1705924800000'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='814.8878' y='2919.7363' z='200.0' yaw='-28.28317' pitch='0.0' fieldOfView='1.0995575' time='1705924800000'/>
+  <doorOrWindow catalogId='Scopia#puerta' name='Door' creator='Scopia' model='2/puerta.obj' x='947.85455' y='497.5625' angle='4.712389' width='87.0' depth='13.91995' height='210.0' color='FF84240C' modelSize='183373' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#double_door_2' name='Double door' creator='Scopia' model='4/double_door_2.obj' x='945.2132' y='666.30725' angle='1.5707964' width='120.0' depth='17.780748' height='210.0' color='FF84240C' modelSize='157381' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#double_door_2' name='Double door' creator='Scopia' model='4/double_door_2.obj' x='1126.3008' y='995.50586' angle='3.1415927' width='120.0' depth='17.780748' height='210.0' color='FF84240C' modelSize='157381' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#garage-door2' name='Garage door' creator='Scopia' model='6/garage-door2.obj' x='341.69672' y='895.55646' angle='3.1415927' width='200.0' depth='9.75435' height='216.7' color='FF84240C' modelSize='183415' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#door' name='Door' creator='Scopia' model='8/door.obj' x='443.66132' y='651.86316' width='87.0' depth='17.780748' height='210.0' color='FF84240C' modelSize='146649' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#puerta' name='Door' creator='Scopia' model='2/puerta.obj' x='1294.8069' y='595.46655' angle='1.5707964' width='87.0' depth='13.91995' height='210.0' color='FF84240C' modelSize='183373' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#puerta' name='Door' creator='Scopia' model='2/puerta.obj' x='241.74005' y='198.14723' width='87.0' depth='13.91995' height='210.0' color='FF84240C' modelSize='183373' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#puerta' name='Door' creator='Scopia' model='2/puerta.obj' x='493.54675' y='445.0191' angle='3.1415927' width='87.0' depth='13.91995' height='210.0' color='FF84240C' modelSize='183373' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#door' name='Door' creator='Scopia' model='8/door.obj' x='591.42084' y='445.4256' angle='3.1415927' width='87.0' depth='17.780748' height='210.0' color='FF84240C' modelSize='146649' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#door' name='Door' creator='Scopia' model='8/door.obj' x='744.1811' y='651.86316' width='87.0' depth='17.780748' height='210.0' color='FF84240C' modelSize='146649' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='eTeks#window85x163' name='Window' creator='eTeks' model='10' x='1007.5466' y='998.03906' elevation='30.0' angle='1.7484555E-7' width='70.0' depth='10.452342' height='180.0' color='FF84240C' modelSize='8910' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='eTeks#window85x163' name='Window' creator='eTeks' model='10' x='1240.1404' y='998.03906' elevation='30.0' angle='1.7484555E-7' width='70.0' depth='10.452342' height='180.0' color='FF84240C' modelSize='8910' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#window_2x1_with_sliders' name='Sliding window' creator='Scopia' model='12/window_2x1_with_sliders.obj' x='419.91827' y='196.62332' elevation='120.0' angle='3.159046' width='150.0' depth='7.62075' height='70.0' color='FF84240C' modelSize='18174' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#turn-window' name='Turn window' creator='Scopia' model='14/turn-window.obj' x='872.5163' y='897.9568' elevation='70.0' angle='8.138021E-8' width='70.0' depth='10.28775' height='150.0' color='FF84240C' modelSize='53892' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#door' name='Door' creator='Scopia' model='8/door.obj' x='352.21503' y='499.47308' angle='1.5258792E-7' width='87.0' depth='17.780748' height='210.0' color='FF84240C' modelSize='146649' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#turn-window' name='Turn window' creator='Scopia' model='14/turn-window.obj' x='1129.4119' y='195.28983' elevation='200.0' angle='3.1415927' width='90.0' depth='10.28775' height='60.0' color='FF84240C' modelSize='53892' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#turn-window' name='Turn window' creator='Scopia' model='14/turn-window.obj' x='736.86444' y='197.95682' elevation='200.0' width='90.0' depth='10.28775' height='60.0' color='FF84240C' modelSize='53892' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#turn-window' name='Turn window' creator='Scopia' model='14/turn-window.obj' x='194.99713' y='575.98486' elevation='200.0' angle='1.5707964' width='70.0' depth='10.28775' height='50.0' color='FF84240C' modelSize='53892' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='eTeks#doubleOutwardOpeningWindow' name='Outward opening window' creator='eTeks' model='16' x='646.9141' y='896.4709' elevation='87.0' angle='3.1415927' width='115.200005' depth='7.92555' height='134.0' color='FF84240C' modelSize='26300' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='Scopia#window_4x3' name='Quadruple French window 3 panes' creator='Scopia' model='18/window_4x3.obj' x='1297.5281' y='766.33704' elevation='30.0' angle='4.712389' width='170.0' depth='10.015607' height='180.0' color='FF84240C' modelSize='73943' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='eTeks#doubleOutwardOpeningWindow' name='Outward opening window' creator='eTeks' model='16' x='1296.4832' y='365.49643' elevation='87.0' angle='4.712389' width='115.200005' depth='7.92555' height='134.0' color='FF84240C' modelSize='26300' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <doorOrWindow catalogId='eTeks#doubleFrenchWindow126x200' name='Double French window' creator='eTeks' model='20' x='797.1932' y='447.95883' elevation='120.0' angle='1.7484555E-7' width='90.0' depth='10.452342' height='150.0' color='FF84240C' modelSize='13346' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' wallCutOutOnBothSides='true'/>
+  <wall id='wall-43aede76-3e32-4698-a3e1-6067ea799be6' wallAtStart='wall-f3eede4c-26c5-4ec4-a899-8b0d892f24d3' wallAtEnd='wall-f1fbb36e-cc40-4640-b01c-935cbe7d88fd' xStart='1296.3308' yStart='996.6233' xEnd='946.33075' yEnd='996.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-f1fbb36e-cc40-4640-b01c-935cbe7d88fd' wallAtStart='wall-43aede76-3e32-4698-a3e1-6067ea799be6' wallAtEnd='wall-2687d29c-03e9-4d40-9934-8c9ef80363e7' xStart='946.33075' yStart='996.6233' xEnd='946.33075' yEnd='896.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-5342fc2e-0457-4080-b71d-a6e410e28524' wallAtStart='wall-20b2f195-2ffb-4d25-b63a-c5fb016bf560' xStart='946.3306' yStart='896.6233' xEnd='946.3306' yEnd='896.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+  </wall>
+  <wall id='wall-84646ca9-99a2-4f2a-bc81-87443a63fd38' wallAtStart='wall-5c6aafb5-cc05-4adc-ad3c-9bc840596ae0' xStart='1296.3308' yStart='550.1683' xEnd='1296.3308' yEnd='550.1683' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+  </wall>
+  <wall id='wall-5c6aafb5-cc05-4adc-ad3c-9bc840596ae0' wallAtEnd='wall-84646ca9-99a2-4f2a-bc81-87443a63fd38' xStart='946.3306' yStart='550.1683' xEnd='1296.3308' yEnd='550.1683' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-f5af9f66-6e8a-4212-b291-e36bec878901' wallAtStart='wall-abfa5a9e-5656-4ed3-9f32-5fa4ec5e5229' xStart='791.33075' yStart='650.7457' xEnd='791.33075' yEnd='896.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-0c782d20-0412-4a8f-b19b-052345801e3c' wallAtStart='wall-3a1c7834-759c-48a9-9d35-a774fa758baa' xStart='396.33063' yStart='650.7457' xEnd='396.33063' yEnd='650.7457' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+  </wall>
+  <wall id='wall-954838d4-3fd5-43de-9f09-71cb445a8629' xStart='543.78' yStart='196.62332' xEnd='543.78' yEnd='446.54303' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-076c19de-e4e0-4bb9-ade6-80362ee62e28' xStart='492.17224' yStart='650.7457' xEnd='492.17224' yEnd='896.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-eecea3ba-e818-45d6-984b-b1908b95ac5a' xStart='396.33063' yStart='498.35565' xEnd='196.33063' yEnd='498.35562' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-cadf1c09-715f-4b2e-a290-8ef7765d6db5' wallAtStart='wall-ec43e249-bdea-4c56-8b3e-19d056d864ab' wallAtEnd='wall-f3eede4c-26c5-4ec4-a899-8b0d892f24d3' xStart='1296.3308' yStart='196.62332' xEnd='1296.3308' yEnd='550.1683' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-f3eede4c-26c5-4ec4-a899-8b0d892f24d3' wallAtStart='wall-cadf1c09-715f-4b2e-a290-8ef7765d6db5' wallAtEnd='wall-43aede76-3e32-4698-a3e1-6067ea799be6' xStart='1296.3308' yStart='550.1683' xEnd='1296.3308' yEnd='996.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-20b2f195-2ffb-4d25-b63a-c5fb016bf560' wallAtStart='wall-bacc48d6-7e7e-479d-a54e-eb66bed5da56' wallAtEnd='wall-5342fc2e-0457-4080-b71d-a6e410e28524' xStart='946.33075' yStart='550.1683' xEnd='946.3306' yEnd='896.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-3b6fd788-6bca-4fca-9ab7-0446d4cfaf3e' wallAtStart='wall-d193a720-c916-4652-96d8-d3c95e169be4' wallAtEnd='wall-26e35038-3a6a-49d0-9067-64a5cb934006' xStart='196.33063' yStart='196.62332' xEnd='543.78' yEnd='196.62332' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-2687d29c-03e9-4d40-9934-8c9ef80363e7' wallAtStart='wall-f1fbb36e-cc40-4640-b01c-935cbe7d88fd' wallAtEnd='wall-6f6053ef-3e60-4447-8066-4bfd560e4bc3' xStart='946.33075' yStart='896.6233' xEnd='791.33075' yEnd='896.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-18154fa2-dda9-4809-aa27-513eda8f75c2' wallAtStart='wall-d92c4331-8c93-4a80-b488-7b86a6526873' wallAtEnd='wall-d43375f3-2b07-4a48-8840-d5d7478bfac9' xStart='196.33063' yStart='896.6232' xEnd='196.33063' yEnd='650.7457' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-d6a7b5d8-e749-43a2-9c39-a4a36b39ab77' wallAtEnd='wall-92ef6b05-4885-4985-973f-6920d3b8af21' xStart='196.33063' yStart='650.7457' xEnd='396.33063' yEnd='650.7457' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-2a73d2d8-5c56-405e-84e4-e1d703babfc9' wallAtEnd='wall-129c6f1c-241f-49f3-9d64-e97abefc1545' xStart='946.3306' yStart='446.54303' xEnd='543.78' yEnd='446.54303' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-129c6f1c-241f-49f3-9d64-e97abefc1545' wallAtStart='wall-2a73d2d8-5c56-405e-84e4-e1d703babfc9' wallAtEnd='wall-bf6031da-58f8-4beb-8dde-1d6b603e6de6' xStart='543.78' yStart='446.54303' xEnd='396.33063' yEnd='446.54303' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-bf6031da-58f8-4beb-8dde-1d6b603e6de6' wallAtStart='wall-129c6f1c-241f-49f3-9d64-e97abefc1545' wallAtEnd='wall-3a1c7834-759c-48a9-9d35-a774fa758baa' xStart='396.33063' yStart='446.54303' xEnd='396.33063' yEnd='498.35565' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-3a1c7834-759c-48a9-9d35-a774fa758baa' wallAtStart='wall-bf6031da-58f8-4beb-8dde-1d6b603e6de6' wallAtEnd='wall-0c782d20-0412-4a8f-b19b-052345801e3c' xStart='396.33063' yStart='498.35565' xEnd='396.33063' yEnd='650.7457' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-edc417a0-a8f0-4796-a95c-0c6cd73caeb5' wallAtEnd='wall-bacc48d6-7e7e-479d-a54e-eb66bed5da56' xStart='946.33075' yStart='196.62332' xEnd='946.33075' yEnd='446.54303' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-bacc48d6-7e7e-479d-a54e-eb66bed5da56' wallAtStart='wall-edc417a0-a8f0-4796-a95c-0c6cd73caeb5' wallAtEnd='wall-20b2f195-2ffb-4d25-b63a-c5fb016bf560' xStart='946.33075' yStart='446.54303' xEnd='946.33075' yEnd='550.1683' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-26e35038-3a6a-49d0-9067-64a5cb934006' wallAtStart='wall-3b6fd788-6bca-4fca-9ab7-0446d4cfaf3e' wallAtEnd='wall-ec43e249-bdea-4c56-8b3e-19d056d864ab' xStart='543.78' yStart='196.62332' xEnd='946.33075' yEnd='196.62332' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-ec43e249-bdea-4c56-8b3e-19d056d864ab' wallAtStart='wall-26e35038-3a6a-49d0-9067-64a5cb934006' wallAtEnd='wall-cadf1c09-715f-4b2e-a290-8ef7765d6db5' xStart='946.33075' yStart='196.62332' xEnd='1296.3308' yEnd='196.62332' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-6f6053ef-3e60-4447-8066-4bfd560e4bc3' wallAtStart='wall-2687d29c-03e9-4d40-9934-8c9ef80363e7' wallAtEnd='wall-d92c4331-8c93-4a80-b488-7b86a6526873' xStart='791.33075' yStart='896.6233' xEnd='492.17224' yEnd='896.6233' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-d92c4331-8c93-4a80-b488-7b86a6526873' wallAtStart='wall-6f6053ef-3e60-4447-8066-4bfd560e4bc3' wallAtEnd='wall-18154fa2-dda9-4809-aa27-513eda8f75c2' xStart='492.17224' yStart='896.6233' xEnd='196.33063' yEnd='896.6232' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-d43375f3-2b07-4a48-8840-d5d7478bfac9' wallAtStart='wall-18154fa2-dda9-4809-aa27-513eda8f75c2' wallAtEnd='wall-d193a720-c916-4652-96d8-d3c95e169be4' xStart='196.33063' yStart='650.7457' xEnd='196.33063' yEnd='498.35562' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-d193a720-c916-4652-96d8-d3c95e169be4' wallAtStart='wall-d43375f3-2b07-4a48-8840-d5d7478bfac9' wallAtEnd='wall-3b6fd788-6bca-4fca-9ab7-0446d4cfaf3e' xStart='196.33063' yStart='498.35562' xEnd='196.33063' yEnd='196.62332' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-92ef6b05-4885-4985-973f-6920d3b8af21' wallAtStart='wall-d6a7b5d8-e749-43a2-9c39-a4a36b39ab77' wallAtEnd='wall-abfa5a9e-5656-4ed3-9f32-5fa4ec5e5229' xStart='396.33063' yStart='650.7457' xEnd='492.17224' yEnd='650.7457' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <wall id='wall-abfa5a9e-5656-4ed3-9f32-5fa4ec5e5229' wallAtStart='wall-92ef6b05-4885-4985-973f-6920d3b8af21' wallAtEnd='wall-f5af9f66-6e8a-4212-b291-e36bec878901' xStart='492.17224' yStart='650.7457' xEnd='791.33075' yEnd='650.7457' height='400.0' thickness='7.62' pattern='hatchUp' topColor='FFACC8AF'>
+    <texture attribute='leftSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <texture attribute='rightSideTexture' name='Small red bricks' creator='eTeks' catalogId='eTeks#smallRedBricks' width='36.2' height='14.9' image='22'/>
+    <baseboard attribute='leftSideBaseboard' thickness='1.0' height='6.35'/>
+    <baseboard attribute='rightSideBaseboard' thickness='1.0' height='6.35'/>
+  </wall>
+  <room id='room-25008337-bbe4-44bb-a3ab-5ab2daf651c3' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='193.6695' y='197.65811'/>
+    <point x='1293.6694' y='197.65811'/>
+    <point x='1293.6694' y='997.6581'/>
+    <point x='943.6695' y='997.6581'/>
+    <point x='943.6695' y='897.6581'/>
+    <point x='193.6695' y='897.65814'/>
+  </room>
+  <room id='room-af8d68b7-6b2b-4ccc-8728-7b1e6a882429' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='1293.6694' y='197.65811'/>
+    <point x='1293.6694' y='547.6581'/>
+    <point x='943.6695' y='547.65814'/>
+    <point x='943.6695' y='197.65811'/>
+  </room>
+  <room id='room-3e149116-cf95-48da-8fee-956dd5b14eb9' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='1293.6694' y='547.6581'/>
+    <point x='1293.6694' y='997.6581'/>
+    <point x='943.6695' y='997.6581'/>
+    <point x='943.6695' y='547.65814'/>
+  </room>
+  <room id='room-ddec0482-aed8-44bb-9d11-86836e0ce22e' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='943.6695' y='197.65811'/>
+    <point x='943.6695' y='447.6581'/>
+    <point x='543.6695' y='447.6581'/>
+    <point x='543.6695' y='197.65811'/>
+  </room>
+  <room id='room-19eed8dd-7f82-4433-a72f-18c3335fff2c' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='943.6695' y='447.6581'/>
+    <point x='943.6695' y='897.6581'/>
+    <point x='793.6695' y='897.6581'/>
+    <point x='793.6695' y='647.6581'/>
+    <point x='393.6695' y='647.6581'/>
+    <point x='393.6695' y='447.6581'/>
+  </room>
+  <room id='room-1b0dc43d-874b-4046-884a-17aa5c1621dd' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='393.6695' y='647.6581'/>
+    <point x='193.6695' y='647.6581'/>
+    <point x='193.6695' y='497.65808'/>
+    <point x='393.6695' y='497.65808'/>
+  </room>
+  <room id='room-1a63d12d-1ff2-4bb5-92a7-f034a5c9f645' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='193.6695' y='197.65811'/>
+    <point x='543.6695' y='197.65811'/>
+    <point x='543.6695' y='447.6581'/>
+    <point x='393.6695' y='447.6581'/>
+    <point x='393.6695' y='497.65808'/>
+    <point x='193.6695' y='497.65808'/>
+  </room>
+  <room id='room-08c78dec-36c7-4580-85f3-4357e9cd18c1' areaVisible='true' areaAngle='4.1887903' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='193.6695' y='497.65808'/>
+    <point x='274.6695' y='497.65808'/>
+    <point x='274.6695' y='647.6581'/>
+    <point x='193.6695' y='647.6581'/>
+  </room>
+  <room id='room-74384b55-822c-4dc4-9873-4d4254cf1b5e' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='493.66956' y='647.6581'/>
+    <point x='793.6695' y='647.6581'/>
+    <point x='793.6695' y='897.6581'/>
+    <point x='493.66956' y='897.6581'/>
+  </room>
+  <room id='room-3f705ed3-b1cb-40bc-8b34-94aa9651b2b1' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='194.62433' y='648.97485'/>
+    <point x='494.62427' y='648.97485'/>
+    <point x='494.62427' y='898.97485'/>
+    <point x='194.62433' y='898.97485'/>
+  </room>
+  <room id='room-fd08125c-7ac0-4a2b-9f6b-b33893af3933' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='1300.1409' y='438.64636'/>
+    <point x='1400.1409' y='438.64636'/>
+    <point x='1400.1409' y='888.9118'/>
+    <point x='1300.1409' y='888.9118'/>
+  </room>
+  <room id='room-cd647bf4-e061-42fb-9e9c-b30e0da7ac16' areaVisible='true' ceilingVisible='false' ceilingFlat='true'>
+    <texture attribute='floorTexture' name='Grey tiles' creator='eTeks' catalogId='eTeks#greyTile' width='31.5' height='31.5' image='21'/>
+    <point x='943.6695' y='997.6581'/>
+    <point x='1293.6694' y='997.6581'/>
+    <point x='1293.6694' y='1147.658'/>
+    <point x='942.5207' y='1147.658'/>
+  </room>
+</home>
